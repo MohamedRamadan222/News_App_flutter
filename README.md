@@ -1,16 +1,32 @@
-# news_app
+# 📰 News App - Flutter
 
-A new Flutter project.
+A modern and elegant Flutter application that fetches and displays the latest news headlines from various categories and countries. Built with clean architecture, localization support, and responsive UI.
 
-## Getting Started
+## 📱 Screenshots
 
-This project is a starting point for a Flutter application.
+> *(Add screenshots here if available)*  
+> You can use `flutter run -d chrome` to preview it on web and take screenshots easily.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📰 Top Headlines from real-time API
+- 🔍 Search functionality
+- 🌍 Multi-language support (English 🇺�� / Arabic 🇪🇬)
+- 💡 Clean Architecture
+- 🎨 Custom reusable widgets
+- 📱 Fully responsive (Android, iOS, Web, Windows, Linux, macOS)
+- 🌐 API integration using `Dio`
+- ✨ Light and smooth UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧑‍�� Tech Stack
+
+- **Flutter** & **Dart**
+- **Dio** for network requests
+- **GoRouter** for routing
+- **easy_localization** for localization
+- **Model-driven JSON parsing** with QuickType
+
+## 📂 Folder Structure
+
+Ctrl + D
+
